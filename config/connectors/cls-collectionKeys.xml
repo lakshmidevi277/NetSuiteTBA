@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="Service:Add1" connectorServiceName="Service:Add1"/>
+            <keyDetails collectionKey="Service:Add2" connectorServiceName="Service:Add2"/>
+            <keyDetails collectionKey="Service:CCS2014" connectorServiceName="Service:CCS2014"/>
+            <keyDetails collectionKey="Service:Create" connectorServiceName="Service:Create"/>
+            <keyDetails collectionKey="Service:Get1" connectorServiceName="Service:Get1"/>
+            <keyDetails collectionKey="Service:InvalidAccountID" connectorServiceName="Service:InvalidAccountID"/>
+            <keyDetails collectionKey="Service:ItemFulfillment" connectorServiceName="Service:ItemFulfillment"/>
+            <keyDetails collectionKey="Service:RGHCC_5261" connectorServiceName="Service:RGHCC_5261"/>
+            <keyDetails collectionKey="Service:RGHCC_5269" connectorServiceName="Service:RGHCC_5269"/>
+            <keyDetails collectionKey="Service:TransBOCCS" connectorServiceName="Service:TransBOCCS"/>
+            <keyDetails collectionKey="Service:add" connectorServiceName="Service:add"/>
+            <keyDetails collectionKey="Service:addList" connectorServiceName="Service:addList"/>
+            <keyDetails collectionKey="Service:get" connectorServiceName="Service:get"/>
+            <keyDetails collectionKey="Service:getList" connectorServiceName="Service:getList"/>
+            <keyDetails collectionKey="Service:update" connectorServiceName="Service:update"/>
+            <keyDetails collectionKey="Service:updateList" connectorServiceName="Service:updateList"/>
+            <keyDetails collectionKey="Service:upsert" connectorServiceName="Service:upsert"/>
+            <keyDetails collectionKey="Service:upsertList" connectorServiceName="Service:upsertList"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
